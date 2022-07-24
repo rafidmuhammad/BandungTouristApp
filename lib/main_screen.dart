@@ -87,7 +87,7 @@ class TourismPlaceGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scrollbar(
-      thumbVisibility: true,
+      thumbVisibility: false,
       child: Padding(
           padding: const EdgeInsets.all(24),
           child: GridView.count(

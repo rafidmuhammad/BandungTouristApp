@@ -1,15 +1,11 @@
 # flutterbasic
 
-A new Flutter project.
+Simple flutter project as part of dicoding courses on multi-platform app development
 
-## Getting Started
+## Short Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+An application that shows various tourist attractions across Bandung.
+This project consists of two pages. Main page that shows list of attractions and detail page that shows short description of the selected attraction.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
