@@ -1,4 +1,4 @@
-# flutterbasic
+# BandungTouristApp
 
 Simple flutter project as part of dicoding [courses](https://www.dicoding.com/academies/159) on multi-platform app development
 
